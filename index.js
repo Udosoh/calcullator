@@ -8,7 +8,7 @@ let number2 =parseFloat(prompt("enter  number"));
 let result;
 
 if(operand == "+"){
- result = number1 + number"
+ result = number1 + number
 } else if (operand == "-"){
 result = number1 -number2
 } else if  (operand == "/"){
